@@ -1,0 +1,39 @@
+{
+  "name": "vuepress-theme-yilia-plus",
+  "version": "1.0.0",
+  "description": "一个简洁优雅的VuePress主题 A simple and elegant theme for VuePress.",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeyBling/vuepress-theme-yilia-plus.git"
+  },
+  "keywords": [
+    "vue",
+    "vuepress",
+    "vuepress-theme",
+    "live2d",
+    "generator",
+    "customization",
+    "yilia-plus"
+  ],
+  "author": {
+    "name": "JoeyBling",
+    "email": "2434387555@qq.com",
+    "url": "https://zhousiwei.gitee.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoeyBling/vuepress-theme-yilia-plus/issues"
+  },
+  "homepage": "https://github.com/JoeyBling/vuepress-theme-yilia-plus/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@vuepress/theme-default": "^1.0.3",
+    "busuanzi.pure.js": "^1.0.2"
+  }
+}
