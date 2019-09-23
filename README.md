@@ -26,7 +26,20 @@ ____    ____  __   __       __       ___           .______    __       __    __ 
 
 ------------------
 
+#### [立即体验](#开始使用)
+
 > **欢迎使用和Star支持，如使用过程中碰到问题，可以提出Issue，我会尽力完善**
+
+> **同时也欢迎相同爱好者加入一起维护此项目**
+
+## 关于[vuepress-theme-yilia-plus](https://github.com/JoeyBling/vuepress-theme-yilia-plus)主题在原主题基础上做了以下功能升级
+1. 添加GitHub Corner(Fork me)
+2. 集成不蒜子访问量统计功能
+3. 添加网站成立年份
+4. 其他样式轻微调优、社交图标优化
+
+> 如果有小伙伴有新功能的意见或者改进欢迎给我提意见和建议~
+
 
 ## 介绍
 &#160;&#160;&#160;&#160;**一款简洁优雅的VuePress主题 A simple and elegant theme for VuePress.**
